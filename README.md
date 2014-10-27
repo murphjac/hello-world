@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi Humans!
+
+Robot stuff from that introductory guide.
